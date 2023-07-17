@@ -1,0 +1,23 @@
+project name: umanga(event planner)
+
+this is a mernstack project 
+
+programming language used: html css javascript 
+
+requirements:
+visual studio
+postman
+mongodb
+cloudinary
+strpe
+reducer extension in the chrome
+
+i have used expressjs and nodejs to connect to backend with the frontend 
+i have stored the databse in the mongobd compass
+i have used the framework reactjs
+i have used postman as rest api
+
+to run the backend: go to terminal > type 'npm run dev'
+to run the frontend: go to terminal > type 'cd frontend' > type 'npm start'
+
+i have also used reducers, cloudinary and stripe 
